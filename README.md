@@ -1,5 +1,7 @@
-##### *BitcoinSoV mediapack
+##### *BitcoinSoV mediapack*
+
 [BTCSOV.com](https://btcsov.com)
+<br>
 [BSOV.info](https://bsov.info)
 <br>
 <br>
